@@ -1,0 +1,1 @@
+puts 'Report of singers'
