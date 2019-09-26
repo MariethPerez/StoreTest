@@ -1,0 +1,1 @@
+puts 'reporte de compras'
